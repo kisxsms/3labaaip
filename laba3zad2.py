@@ -1,6 +1,6 @@
 rez = " "
 while True:
-    i = input("Введите словo: ")
+    i = input("Введите слoвo: ")
     if i == "stop":
         break
     rez = rez + i + " "
